@@ -1,0 +1,6 @@
+# deploy via cmd line
+https://www.youtube.com/watch?v=7wzuievFjrk
+npm run deploy
+
+# deploy via github actions
+https://www.youtube.com/watch?v=iebVPISad54
