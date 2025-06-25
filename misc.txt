@@ -1,6 +1,13 @@
+# learning from https://www.youtube.com/watch?v=F627pKNUCVQ
+
+npm i react-icons
+
 # deploy via cmd line
 https://www.youtube.com/watch?v=7wzuievFjrk
 npm run deploy
 
 # deploy via github actions
 https://www.youtube.com/watch?v=iebVPISad54
+
+# seen till here
+https://youtu.be/F627pKNUCVQ?si=KZxPXAPLzvjgXTY5&t=2890
